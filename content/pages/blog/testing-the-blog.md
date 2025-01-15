@@ -3,9 +3,7 @@ type: PostLayout
 title: testing the blog
 date: '2025-01-15'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Excerpt for the test
 featuredImage:
   type: ImageBlock
   url: /images/Drone Insurance.png
