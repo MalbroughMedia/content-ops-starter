@@ -57,6 +57,7 @@ seo:
   metaDescription: testing the blog
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/Drone Insurance.png
 colors: bg-light-fg-dark
 styles:
   self:
