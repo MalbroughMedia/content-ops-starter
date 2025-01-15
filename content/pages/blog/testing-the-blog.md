@@ -54,7 +54,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: testing the blog
-  metaDescription: lorem-ipsum
+  metaDescription: testing the blog
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
